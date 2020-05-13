@@ -1,4 +1,5 @@
-# Kickstarter - Improving existing models by adding content data
+# Kickstarter - Improving Existing Models by Adding Content Metrics 
+\- Work in progress - 
 
 ## Abstract
 Kickstarter's stated mission is to "help bring creative projects to life". Since 2009 it has helped connect creators with potential funders by offering an online platform to promote their projects.
@@ -6,13 +7,13 @@ Kickstarter's stated mission is to "help bring creative projects to life". Since
 	As someone who comes from an online marketing background, there is a question that instantly comes to my mind: Is there anything we can learn regarding the content included on these project pages?
 
 ## Project Objectives
-	The primary purpose of this project is to assess if adding content-related data improves predictions compared to previous models. Examples of content-related data can be: 
-number of videos, static and animated images
- presence of certain words on project blurb
- presence, length and sentiment score of the different sections of each page: story, risk and challenges, environmental commitments
-range of pledge thresholds to receive rewards
-	Another goal is to prove or disprove whether a high number of concurrent projects has an impact on their probability to succeed. In other words: Can the crowdfunding market be saturated?
-	I will also explore the data to find the latest trends and the initial impact of the pandemic on project creation.
+The primary purpose of this project is to assess if adding content-related data improves predictions compared to previous models. Examples of content-related data can be: 
+- number of videos, static and animated images
+- presence of certain words on project blurb
+- presence, length and sentiment score of the different sections of each page: story, risk and challenges, environmental commitments
+- range of pledge thresholds to receive rewards
+Another goal is to prove or disprove whether a high number of concurrent projects has an impact on their probability to succeed. In other words: Can the crowdfunding market be saturated?
+I will also explore the data to find the latest trends and the initial impact of the pandemic on project creation.
 
 ## Personal Objectives
 Besides the joy of extracting insight from a sea of data, this project was an excellent opportunity to:
